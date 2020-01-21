@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Python Learner",
+    "description": "",
+    "home_page_url": "https://github.com/jono1001/pythonlearnerj",
+    "feed_url": "https://github.com/jono1001/pythonlearnerj/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "J"
+    },
+    "items": [
+        {
+            "id": "https://github.com/jono1001/pythonlearnerj/python-learner.html",
+            "url": "https://github.com/jono1001/pythonlearnerj/python-learner.html",
+            "title": "Python Learner",
+            "summary": " So I have been teaching myself Python for a few months now. I have been downloading and reading Python books, checking websites, watching Youtube and following online courses.One twitter post on learning Python advised that I keep a learning Python Blog. So here it&hellip;",
+            "content_html": "<p> </p>\n<h2 id=\"mcetoc_1dv56d69f1\">My Python Learning Journey Begins</h2>\n<p>So I have been teaching myself Python for a few months now.  I have been downloading and reading Python books, checking websites, watching Youtube and following online courses.One twitter post on learning Python advised that I keep a learning Python Blog. So here it is.  </p>\n<p>I have some broad aims about why I am learning Python coding and programming in general.</p>\n<h2 id=\"mcetoc_1dv56aggp0\">Why am I learning programming?</h2>\n<h3 id=\"mcetoc_1dv56gmd02\">Reasons I learn Python</h3>\n<p>I have been teaching very basic Python programming for a few years now. I still have students who are very interesting in doing this. My goal is to be a better programmer so my students benefit. </p>\n<p>Everyday I read Reddit posts about learning programming. I like to lurk here and often pick up on what is important when learning programming languges. I also like to be part of this community.</p>\n<p>This is a great hobby that has replaced another <span style=\"text-decoration: line-through;\">adiction</span> hobby. I don't have aspirations to be a programmer that is paid for their time coding. I would like this but can't see it happening. Therefore I can take my time to learn and teach myself this new skill. </p>\n<p>I work online teaching students Computer Science. I have a lot of downtime between lesson and I plan to use this time to learn coding. As a result I can use my freetime everyday to learn something about coding and programming. </p>\n<p>These are my broad aims and goals What do you think so far?</p>",
+            "author": {
+                "name": "J"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-22T09:01:19+10:00",
+            "date_modified": "2020-01-22T09:21:07+10:00"
+        }
+    ]
+}

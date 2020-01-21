@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Python Learner</title>
+    <link href="https://github.com/jono1001/pythonlearnerj/feed.xml" rel="self" />
+    <link href="https://github.com/jono1001/pythonlearnerj" />
+    <updated>2020-01-22T09:23:43+10:00</updated>
+    <author>
+        <name>J</name>
+    </author>
+    <id>https://github.com/jono1001/pythonlearnerj</id>
+
+    <entry>
+        <title>Python Learner</title>
+        <author>
+            <name>J</name>
+        </author>
+        <link href="https://github.com/jono1001/pythonlearnerj/python-learner.html"/>
+        <id>https://github.com/jono1001/pythonlearnerj/python-learner.html</id>
+
+        <updated>2020-01-22T09:21:07+10:00</updated>
+            <summary>
+                <![CDATA[
+                     So I have been teaching myself Python for a few months now. I have been downloading and reading Python books, checking websites, watching Youtube and following online courses.One twitter post on learning Python advised that I keep a learning Python Blog. So here it&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p> </p>
+<h2 id="mcetoc_1dv56d69f1">My Python Learning Journey Begins</h2>
+<p>So I have been teaching myself Python for a few months now.  I have been downloading and reading Python books, checking websites, watching Youtube and following online courses.One twitter post on learning Python advised that I keep a learning Python Blog. So here it is.  </p>
+<p>I have some broad aims about why I am learning Python coding and programming in general.</p>
+<h2 id="mcetoc_1dv56aggp0">Why am I learning programming?</h2>
+<h3 id="mcetoc_1dv56gmd02">Reasons I learn Python</h3>
+<p>I have been teaching very basic Python programming for a few years now. I still have students who are very interesting in doing this. My goal is to be a better programmer so my students benefit. </p>
+<p>Everyday I read Reddit posts about learning programming. I like to lurk here and often pick up on what is important when learning programming languges. I also like to be part of this community.</p>
+<p>This is a great hobby that has replaced another <span style="text-decoration: line-through;">adiction</span> hobby. I don't have aspirations to be a programmer that is paid for their time coding. I would like this but can't see it happening. Therefore I can take my time to learn and teach myself this new skill. </p>
+<p>I work online teaching students Computer Science. I have a lot of downtime between lesson and I plan to use this time to learn coding. As a result I can use my freetime everyday to learn something about coding and programming. </p>
+<p>These are my broad aims and goals What do you think so far?</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
