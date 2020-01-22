@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Python Learner</title>
-    <link href="https://github.com/jono1001/pythonlearnerj/feed.xml" rel="self" />
-    <link href="https://github.com/jono1001/pythonlearnerj" />
-    <updated>2020-01-22T10:01:11+10:00</updated>
+    <link href="https://github.com/jono1001/pythonlearnerj.git/feed.xml" rel="self" />
+    <link href="https://github.com/jono1001/pythonlearnerj.git" />
+    <updated>2020-01-22T10:18:16+10:00</updated>
     <author>
         <name>J</name>
     </author>
-    <id>https://github.com/jono1001/pythonlearnerj</id>
+    <id>https://github.com/jono1001/pythonlearnerj.git</id>
 
     <entry>
         <title>Python Learner</title>
         <author>
             <name>J</name>
         </author>
-        <link href="https://github.com/jono1001/pythonlearnerj/python-learner.html"/>
-        <id>https://github.com/jono1001/pythonlearnerj/python-learner.html</id>
+        <link href="https://github.com/jono1001/pythonlearnerj.git/python-learner.html"/>
+        <id>https://github.com/jono1001/pythonlearnerj.git/python-learner.html</id>
 
         <updated>2020-01-22T09:21:07+10:00</updated>
             <summary>
