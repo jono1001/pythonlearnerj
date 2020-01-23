@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/jono1001/pythonlearnerj/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://jono1001.github.io/pythonlearnerj/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/jono1001/pythonlearnerj/</loc>
+<loc>https://jono1001.github.io/pythonlearnerj/</loc>
 </url>
 <url>
-<loc>https://github.com/jono1001/pythonlearnerj/python-learner.html</loc>
-<lastmod>2020-01-22T10:40:17+10:00</lastmod>
+<loc>https://jono1001.github.io/pythonlearnerj/python-learner.html</loc>
+<lastmod>2020-01-24T09:48:42+10:00</lastmod>
 <image:image>
-<image:loc>https://github.com/jono1001/pythonlearnerj/media\posts\1/python-removebg-preview.png</image:loc>
+<image:loc>https://jono1001.github.io/pythonlearnerj/media\posts\1/python-removebg-preview.png</image:loc>
 <image:title><![CDATA[Python]]></image:title>
 </image:image>
 </url>
