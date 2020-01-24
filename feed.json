@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://jono1001.github.io/pythonlearnerj/a-python-a-turtle-and-geometry.html",
+            "url": "https://jono1001.github.io/pythonlearnerj/a-python-a-turtle-and-geometry.html",
+            "title": "A Python, a Turtle and Geometry",
+            "summary": "My TL:DR GuidesI have been making a guide that I can use with my students. I have found many teaching Python resoures and they really are great text walls. The explanations are very detailed, which in some ways is good. However my guide is aimed&hellip;",
+            "content_html": "<h2 id=\"mcetoc_1dvao44ad0\">My TL:DR Guides</h2>\n<p>I have been making a guide that I can use with my students.  I have found many teaching Python resoures and they really are great text walls.  The explanations are very detailed, which in some ways is good. However my guide is aimed at getting students coding ASAP. These are my TL:DR type of guides.  Here are some sample screenshots.</p>\n<p>I find that these style of guides are well received by my students. I think the idea is to get them programming and then I would explain/discuss with them the programmes features and terminology. </p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_1.png\" ><img src=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_1-thumbnail.png\" alt=\"MainPage\" width=\"720\" height=\"406\"></a>\n<figcaption class=\"gallery-description\">Main Page</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_2.png\" ><img src=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_2-thumbnail.png\" alt=\"LessonObjectives\" width=\"720\" height=\"405\"></a>\n<figcaption class=\"gallery-description\">Lesson Objectives</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_3.png\" ><img src=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_3-thumbnail.png\" alt=\"Sample Programme Circle\" width=\"720\" height=\"406\"></a>\n<figcaption class=\"gallery-description\">Sample Programme Circle</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_4.png\" ><img src=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_4-thumbnail.png\" alt=\"Sample Programme Tangent Circles\" width=\"720\" height=\"405\"></a></figure>\n</div>",
+            "author": {
+                "name": "J"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-24T13:05:13+10:00",
+            "date_modified": "2020-01-24T13:05:13+10:00"
+        },
+        {
             "id": "https://jono1001.github.io/pythonlearnerj/python-learner.html",
             "url": "https://jono1001.github.io/pythonlearnerj/python-learner.html",
             "title": "Python Learner",
