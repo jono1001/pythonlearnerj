@@ -3,12 +3,39 @@
     <title>Python Learner</title>
     <link href="https://jono1001.github.io/pythonlearnerj/feed.xml" rel="self" />
     <link href="https://jono1001.github.io/pythonlearnerj" />
-    <updated>2020-01-24T13:11:41+10:00</updated>
+    <updated>2020-01-24T13:29:14+10:00</updated>
     <author>
         <name>J</name>
     </author>
     <id>https://jono1001.github.io/pythonlearnerj</id>
 
+    <entry>
+        <title>Today I learned...</title>
+        <author>
+            <name>J</name>
+        </author>
+        <link href="https://jono1001.github.io/pythonlearnerj/today-i-learned.html"/>
+        <id>https://jono1001.github.io/pythonlearnerj/today-i-learned.html</id>
+
+        <updated>2020-01-24T13:29:06+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Today I learned...Well I just wanted to tell you that I know Python computer language is not named after snake. I know that it is named after Monty Python. I also made the connection the IDLE = Integrated Development and Learning Environment and Eric Idle.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 id="mcetoc_1dvapa8450">Today I learned...</h3>
+<p>Well I just wanted to tell you that I know Python computer language is not named after snake. I know that it is named after Monty Python.  I also made the connection the <a href="https://en.wikipedia.org/wiki/IDLE" target="_blank" rel="noopener noreferrer">IDLE</a> = Integrated Development and Learning Environment and <a href="https://en.wikipedia.org/wiki/IDLE" target="_blank" rel="noopener noreferrer">Eric Idle</a>. Nothing gets past me. </p>
+<p>I have been a fan of Monty Python for many years There a only four Python's left. </p>
+<figure class="post__image post__image" ><img src="https://jono1001.github.io/pythonlearnerj/media/posts/3/Monty_Python-settanta.jpg" alt="Monty Python" width="540" height="390">
+<figcaption >Monty Python</figcaption>
+</figure>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>A Python, a Turtle and Geometry</title>
         <author>
@@ -17,14 +44,16 @@
         <link href="https://jono1001.github.io/pythonlearnerj/a-python-a-turtle-and-geometry.html"/>
         <id>https://jono1001.github.io/pythonlearnerj/a-python-a-turtle-and-geometry.html</id>
 
-        <updated>2020-01-24T13:05:13+10:00</updated>
+        <updated>2020-01-24T13:19:24+10:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://jono1001.github.io/pythonlearnerj/media/posts/2/green-tree-python-1416338_1920-removebg-preview.png" alt="Python" />
                     My TL:DR GuidesI have been making a guide that I can use with my students. I have found many teaching Python resoures and they really are great text walls. The explanations are very detailed, which in some ways is good. However my guide is aimed&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://jono1001.github.io/pythonlearnerj/media/posts/2/green-tree-python-1416338_1920-removebg-preview.png" alt="Python" />
                 <h2 id="mcetoc_1dvao44ad0">My TL:DR Guides</h2>
 <p>I have been making a guide that I can use with my students.  I have found many teaching Python resoures and they really are great text walls.  The explanations are very detailed, which in some ways is good. However my guide is aimed at getting students coding ASAP. These are my TL:DR type of guides.  Here are some sample screenshots.</p>
 <p>I find that these style of guides are well received by my students. I think the idea is to get them programming and then I would explain/discuss with them the programmes features and terminology. </p>
@@ -51,14 +80,16 @@
         <link href="https://jono1001.github.io/pythonlearnerj/python-learner.html"/>
         <id>https://jono1001.github.io/pythonlearnerj/python-learner.html</id>
 
-        <updated>2020-01-24T13:11:34+10:00</updated>
+        <updated>2020-01-24T13:15:49+10:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://jono1001.github.io/pythonlearnerj/media/posts/1/python-removebg-preview_85.png" alt="Python" />
                      So I have been teaching myself Python for a few months now. I have been downloading and reading Python books, checking websites, watching Youtube and following online courses.One twitter post on learning Python advised that I keep a learning Python Blog. So here it&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://jono1001.github.io/pythonlearnerj/media/posts/1/python-removebg-preview_85.png" alt="Python" />
                 <p> </p>
 <h2 id="mcetoc_1dv56d69f1">My Python Learning Journey Begins</h2>
 <p>So I have been teaching myself Python for a few months now.  I have been downloading and reading Python books, checking websites, watching Youtube and following online courses.One twitter post on learning Python advised that I keep a learning Python Blog. So here it is.  </p>

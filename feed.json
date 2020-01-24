@@ -10,18 +10,33 @@
     },
     "items": [
         {
+            "id": "https://jono1001.github.io/pythonlearnerj/today-i-learned.html",
+            "url": "https://jono1001.github.io/pythonlearnerj/today-i-learned.html",
+            "title": "Today I learned...",
+            "summary": "Today I learned...Well I just wanted to tell you that I know Python computer language is not named after snake. I know that it is named after Monty Python. I also made the connection the IDLE = Integrated Development and Learning Environment and Eric Idle.",
+            "content_html": "<h3 id=\"mcetoc_1dvapa8450\">Today I learned...</h3>\n<p>Well I just wanted to tell you that I know Python computer language is not named after snake. I know that it is named after Monty Python.  I also made the connection the <a href=\"https://en.wikipedia.org/wiki/IDLE\" target=\"_blank\" rel=\"noopener noreferrer\">IDLE</a> = Integrated Development and Learning Environment and <a href=\"https://en.wikipedia.org/wiki/IDLE\" target=\"_blank\" rel=\"noopener noreferrer\">Eric Idle</a>. Nothing gets past me. </p>\n<p>I have been a fan of Monty Python for many years There a only four Python's left. </p>\n<figure class=\"post__image post__image\" ><img src=\"https://jono1001.github.io/pythonlearnerj/media/posts/3/Monty_Python-settanta.jpg\" alt=\"Monty Python\" width=\"540\" height=\"390\">\n<figcaption >Monty Python</figcaption>\n</figure>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "J"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-24T13:29:06+10:00",
+            "date_modified": "2020-01-24T13:29:06+10:00"
+        },
+        {
             "id": "https://jono1001.github.io/pythonlearnerj/a-python-a-turtle-and-geometry.html",
             "url": "https://jono1001.github.io/pythonlearnerj/a-python-a-turtle-and-geometry.html",
             "title": "A Python, a Turtle and Geometry",
             "summary": "My TL:DR GuidesI have been making a guide that I can use with my students. I have found many teaching Python resoures and they really are great text walls. The explanations are very detailed, which in some ways is good. However my guide is aimed&hellip;",
             "content_html": "<h2 id=\"mcetoc_1dvao44ad0\">My TL:DR Guides</h2>\n<p>I have been making a guide that I can use with my students.  I have found many teaching Python resoures and they really are great text walls.  The explanations are very detailed, which in some ways is good. However my guide is aimed at getting students coding ASAP. These are my TL:DR type of guides.  Here are some sample screenshots.</p>\n<p>I find that these style of guides are well received by my students. I think the idea is to get them programming and then I would explain/discuss with them the programmes features and terminology. </p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_1.png\" ><img src=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_1-thumbnail.png\" alt=\"MainPage\" width=\"720\" height=\"406\"></a>\n<figcaption class=\"gallery-description\">Main Page</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_2.png\" ><img src=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_2-thumbnail.png\" alt=\"LessonObjectives\" width=\"720\" height=\"405\"></a>\n<figcaption class=\"gallery-description\">Lesson Objectives</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_3.png\" ><img src=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_3-thumbnail.png\" alt=\"Sample Programme Circle\" width=\"720\" height=\"406\"></a>\n<figcaption class=\"gallery-description\">Sample Programme Circle</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_4.png\" ><img src=\"https://jono1001.github.io/pythonlearnerj/media/posts/2/gallery/Screenshot_4-thumbnail.png\" alt=\"Sample Programme Tangent Circles\" width=\"720\" height=\"405\"></a></figure>\n</div>",
+            "image": "https://jono1001.github.io/pythonlearnerj/media/posts/2/green-tree-python-1416338_1920-removebg-preview.png",
             "author": {
                 "name": "J"
             },
             "tags": [
             ],
             "date_published": "2020-01-24T13:05:13+10:00",
-            "date_modified": "2020-01-24T13:05:13+10:00"
+            "date_modified": "2020-01-24T13:19:24+10:00"
         },
         {
             "id": "https://jono1001.github.io/pythonlearnerj/python-learner.html",
@@ -29,13 +44,14 @@
             "title": "Python Learner",
             "summary": " So I have been teaching myself Python for a few months now. I have been downloading and reading Python books, checking websites, watching Youtube and following online courses.One twitter post on learning Python advised that I keep a learning Python Blog. So here it&hellip;",
             "content_html": "<p> </p>\n<h2 id=\"mcetoc_1dv56d69f1\">My Python Learning Journey Begins</h2>\n<p>So I have been teaching myself Python for a few months now.  I have been downloading and reading Python books, checking websites, watching Youtube and following online courses.One twitter post on learning Python advised that I keep a learning Python Blog. So here it is.  </p>\n<p>I have some broad aims about why I am learning Python coding and programming in general.</p>\n<h2 id=\"mcetoc_1dv56aggp0\">Why am I learning programming?</h2>\n<h3 id=\"mcetoc_1dv56gmd02\">The Reasons I learn Python Programming</h3>\n<p>I have been teaching very basic Python programming for a few years now. I still have students who are very interesting in doing this. My goal is to be a better programmer so my students benefit. </p>\n<p>Everyday I read Reddit posts about learning programming. I like to lurk here and often pick up on what is important when learning programming languges. I also like to be part of this community.</p>\n<p>This is a great hobby that has replaced another <span style=\"text-decoration: line-through;\">adiction</span> hobby. I don't have aspirations to be a programmer that is paid for their time coding. I would like this but can't see it happening. Therefore I can take my time to learn and teach myself this new skill. </p>\n<p>I work online teaching students Computer Science. I have a lot of downtime between lesson and I plan to use this time to learn coding. As a result I can use my freetime everyday to learn something about coding and programming. </p>\n<p>These are my broad aims and goals What do you think so far?</p>",
+            "image": "https://jono1001.github.io/pythonlearnerj/media/posts/1/python-removebg-preview_85.png",
             "author": {
                 "name": "J"
             },
             "tags": [
             ],
             "date_published": "2020-01-22T09:01:19+10:00",
-            "date_modified": "2020-01-24T13:11:34+10:00"
+            "date_modified": "2020-01-24T13:15:49+10:00"
         }
     ]
 }
